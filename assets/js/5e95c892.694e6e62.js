@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkword_lightning_ai_docs=self.webpackChunkword_lightning_ai_docs||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>u});r(6540);var n=r(4164),a=r(1213),c=r(7559),i=r(2831),d=r(781),t=r(4848);function u(e){return(0,t.jsx)(a.e3,{className:(0,n.A)(c.G.wrapper.docsPages),children:(0,t.jsx)(d.A,{children:(0,i.v)(e.route.routes)})})}}}]);
