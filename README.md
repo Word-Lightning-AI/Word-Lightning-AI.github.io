@@ -1,41 +1,24 @@
-# Website
+#Word-Lightning-AI.github.io
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Word Lightning AI의 문서화를 위한 저장소입니다.
 
-### Installation
 
-```
-$ npm install
-```
+## 개발 환경 설정
+```shell
+$ pnpm install # 패키지 설치
 
-### Local Development
+$ pnpm run start # 개발 서버 실행
 
-```
-$ npm run start
-```
+$ pnpm run build # 빌드
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ npm run build
+# package.json의 deploy 스크립트를 수정해야 합니다
+$ pnpm run deploy # 배포
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
+```json
+{
+  "scripts": {
+      "deploy": "GIT_USER=<Your Github username> docusaurus deploy"
+  }
+}
 ```
-$ USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
