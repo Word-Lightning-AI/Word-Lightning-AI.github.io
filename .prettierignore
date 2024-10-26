@@ -1,0 +1,8 @@
+node_modules
+.docusaurus
+build
+static
+pnpm-lock.yaml
+tsconfig.json
+
+README.md
