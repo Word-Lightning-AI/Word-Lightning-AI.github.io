@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 개요
 
-Word Lightning AI의 intro 페이지입니다.
+Word Lightning AI의 공식 문서에 오신 것을 환영합니다!
 
 ## Getting Started
 

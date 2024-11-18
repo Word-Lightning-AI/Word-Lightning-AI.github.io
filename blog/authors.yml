@@ -21,3 +21,18 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+kimcookieya:
+  name: KimCookieYa
+  title: Front End Engineer @ Sendy
+  url: https://github.com/KimCookieYa
+  image_url: https://avatars.githubusercontent.com/u/45006957?v=4
+  page: true
+  socials:
+    github: KimCookieYa
+    newsletter: https://insengnewbie.tistory.com/
+
+sihyeong:
+  name: Sihyeong
+  title: ML Engineer @ relu
+  url: https://github.com/sihyeong671
